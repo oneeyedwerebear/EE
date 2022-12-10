@@ -1,0 +1,27 @@
+{
+  "title": "Excessive Excavations",
+  "description": "<p>A group of dwarven miners were expanding the ancestral burial chambers for the Silverkrag family, when they stumbled into a hive of ankheg. The horrid creatures immediately swarmed and attacked, killing or driving the miners off. Needing help, the Silverkrag clan has hired the players to take care of their bug problem and reclaim the burial chambers. Will the party succeed in clearing out the dwarven tomb, or will the tomb become theirs as well?</p>",
+  "version": "1.0.0",
+  "system": "dnd5e",
+  "coreVersion": "10.288",
+  "systemVersion": "2.0.3",
+  "authors": [
+    {
+      "name": "R20Converter",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "resetKeys": false,
+  "safeMode": false,
+  "id": "excessive-excavations",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.288"
+  }
+}
